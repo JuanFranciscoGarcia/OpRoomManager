@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jan  5 10:09:58 2025
-
-@author: luciacamposdiaz
-"""
 
 import pulp
 import pandas as pd
